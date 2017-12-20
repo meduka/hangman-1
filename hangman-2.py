@@ -9,7 +9,7 @@ Manuela C.
 import os
 import random
 
-path = "files"
+path = "puzzles"
 
 file_names = os.listdir(path)
 
